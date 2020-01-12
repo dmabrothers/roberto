@@ -1,0 +1,24 @@
+#console{
+				position:fixed;
+				top:0px;
+				left:10px;
+				display:none;
+				width:98%;
+				z-index: 99;
+				height:300px;
+				background: #002;
+				opacity:0.9;
+				
+
+			}
+			
+
+			
+			#interpreter{
+			/*	position:absolute;*/
+				right:0px;
+				height:100%;
+				width:100%;
+				text-shadow: none;
+			}
+			
